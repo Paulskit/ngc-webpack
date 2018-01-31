@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as Path from 'path';
 import * as webpack from 'webpack';
 import * as minimist from 'minimist';
